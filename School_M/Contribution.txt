@@ -1,0 +1,7 @@
+
+IT22592392     -   B.H.B.S Vindunu    -    Backend         - parent CRUD
+
+                                           Frontend UI     - patentManagement UI
+                                                             Add Parent 
+                                                             Edit Patent
+                                                             Delete Parent
